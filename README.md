@@ -17,8 +17,7 @@
 
 # Installation
 
-```sh
-# Let's install the bot.
+```sh# Let's install the bot.
 cd $HOME
 git clone https://github.com/BeyondTeam/BDReborn.git
 cd BDReborn
@@ -28,8 +27,7 @@ chmod +x beyond.sh
 ```
 ### One command
 To install everything in one command, use:
-```sh
-cd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+```shcd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
 ```
 
 * * *
@@ -49,33 +47,9 @@ add your bot ID at line 4 and add your ID at line 87 in bot.lua
 add your ID at line 2 in tools.lua
 Then restart the bot.
 
-# Support and development
-
-More information [Beyond Development](https://telegram.me/joinchat/AAAAAD9JFZlMveUl8q99gA)
-
-# Special thanks to
-[@nero_dev](https://telegram.me/nero_dev)
-
-[@K_a_I_i_I_i_n_u_x](https://telegram.me/K_a_I_i_I_i_n_u_x)
-
-[@MrHalix](https://github.com/MrHalix)
-
-[@Vysheng](https://github.com/vysheng)
 
 * * *
 
-# Developers!
-
-[SoLiD](https://github.com/solid021) ([Telegram](https://telegram.me/SoLiD))
-
-[MAKAN](https://github.com/makanj) ([Telegram](https://telegram.me/MAKAN))
-
-[Ali](https://github.com/ali-ghoghnoos) ([Telegram](https://telegram.me/Exacute))
-
-[Rixel](https://github.com/Rixel) ([Telegram](https://telegram.me/Rixel))
-
-[Civey](https://github.com/Oysof) ([Telegram](https://telegram.me/Civey))
-
 ### Our Telegram channel:
 
-[@BeyondTeam](https://telegram.me/BeyondTeam)
+[@ArluxTeam](https://telegram.me/BeyondTeam)
