@@ -19,15 +19,15 @@
 
 ```sh# Let's install the bot.
 cd $HOME
-git clone https://github.com/BeyondTeam/BDReborn.git
-cd BDReborn
+git clone https://github.com/saleh0/Arlux.git
+cd Arlux
 chmod +x beyond.sh
-./beyond.sh install
-./beyond.sh # Enter a phone number & confirmation code.
+./arlux.sh install
+./arlux.sh # Enter a phone number & confirmation code.
 ```
 ### One command
 To install everything in one command, use:
-```shcd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./arlux.sh
+```shcd $HOME && git clone https://github.com/saleh0/arlux.git && cd Arlux && chmod +x arlux.sh && ./arlux.sh install && ./arlux.sh
 ```
 
 * * *
