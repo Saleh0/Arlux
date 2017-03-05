@@ -27,7 +27,7 @@ chmod +x beyond.sh
 ```
 ### One command
 To install everything in one command, use:
-```shcd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./beyond.sh
+```shcd $HOME && git clone https://github.com/BeyondTeam/BDReborn.git && cd BDReborn && chmod +x beyond.sh && ./beyond.sh install && ./arlux.sh
 ```
 
 * * *
