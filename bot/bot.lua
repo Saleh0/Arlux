@@ -70,7 +70,10 @@ function create_config( )
     "msg-checks",
     "plugins",
     "tools",
-    "warn"
+    "warn",
+    "rmsgall",
+    "linkpv"	
+
  },
     sudo_users = {188383245},
     admins = {},
