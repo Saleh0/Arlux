@@ -52,4 +52,4 @@ Then restart the bot.
 
 ### Our Telegram channel:
 
-[@ArluxTeam](https://telegram.me/BeyondTeam)
+[@Arlux](https://telegram.me/Arlux)
