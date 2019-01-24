@@ -1,4 +1,4 @@
-# [Arlux](https://telegram.me/Arlux)
+# [Unix](https://telegram.me/UnixIR)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
@@ -52,4 +52,4 @@ Then restart the bot.
 
 ### Our Telegram channel:
 
-[@Arlux](https://telegram.me/Arlux)
+[@UnixIR](https://telegram.me/UnixIR)
