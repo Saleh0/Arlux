@@ -1,4 +1,4 @@
-# [Unix](https://telegram.me/UnixIR)
+# [ArluxBot](https://telegram.me/UnixIR)
 
 **An advanced and powerful administration bot based on NEW TG-CLI
 
