@@ -12,7 +12,7 @@ function run(msg, matches)
        end
           local text = "<b>Group Link :</b>\n"..linkgp
 		   tdcli.sendMessage(msg.sender_user_id_, 0, 1, text, 1, 'html')
-           return "✅ لینک گروه در چت خصوصی ارسال شد ✅"
+           return "✅ لینک گروه در چت خصوصی ارسال شد"
 end
 
 return {
