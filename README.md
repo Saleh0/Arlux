@@ -27,7 +27,7 @@ chmod +x beyond.sh
 ```
 ### One command
 To install everything in one command, use:
-```shcd $HOME && git clone https://github.com/saleh0/arlux.git && cd Arlux && chmod +x arlux.sh && ./arlux.sh install && ./arlux.sh
+```shcd $HOME && git clone https://github.com/Unix-IR/arlux.git && cd Arlux && chmod +x arlux.sh && ./arlux.sh install && ./arlux.sh
 ```
 
 * * *
